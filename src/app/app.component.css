@@ -1,0 +1,62 @@
+.size {
+    height: 330px;
+    width: 400px;
+    align-content: flex-end;
+    background-color: #FFFFFF;
+    overflow: visible;
+}
+
+.input {
+    width: 100%;
+    height: 47px;
+    background: #E8F0FE;
+    border-radius: 7px;
+    margin: 4px;
+    border-width: 1px;
+    border: blueviolet;
+}
+
+.login {
+    width: 100%;
+    height: 47px;
+    margin-left: 5px;
+    margin-top: 7px;
+    background-color: #1877F2;
+    font-size: 21px;
+    color: #ffffff;
+}
+
+.Create {
+    width: 50%;
+    height: 47px;
+    margin-top: 7px;
+    background-color: #42B72A;
+    font-size: 16px;
+    margin-left: 90px;
+    color: #ffffff;
+}
+
+.Facebook {
+    margin-left: 250px;
+    margin-top: 100px;
+    color: #1877F2;
+    box-shadow: #fff, 5px;
+}
+
+.Facebook2 {
+    margin-left: 250px;
+    margin-bottom: 100px;
+    background: #fff;
+    box-shadow: #fff, 5px;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #90949F;
+    opacity: 1;
+    padding-left: 20px;
+}
+
+body {
+    background: #F0F2F5
+}
